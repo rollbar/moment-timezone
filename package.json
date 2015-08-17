@@ -1,6 +1,6 @@
 {
 	"name": "moment-timezone",
-	"version": "0.2.5-rollbar.1",
+	"version": "0.2.5-rollbar.2",
 	"description": "Parse and display moments in any timezone.",
 	"homepage": "http://momentjs.com/timezone/",
 	"author": "Tim Wood <washwithcare@gmail.com> (http://timwoodcreates.com/)",
@@ -27,7 +27,7 @@
 	},
 	"license" : "MIT",
 	"dependencies" : {
-		"moment": "git://github.com/rollbar/moment#2.8.3-rollbar.1"
+		"moment": "git://github.com/rollbar/moment#2.8.3-rollbar.2"
 	},
 	"devDependencies" : {
 		"grunt"                  : "0.4.4",
